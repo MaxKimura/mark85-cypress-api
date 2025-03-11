@@ -1,0 +1,68 @@
+{
+    "list": {
+        "user": {
+            "name": "Maxwell Con Tasks",
+            "email": "maxcontasks@email.com",
+            "password": "123456"
+        },
+        "tasks": [
+            {
+                "name": "pag4r cartao de credito",
+                "tags": [
+                    "nubank",
+                    "c6",
+                    "bradesco"
+                ]
+            },
+            {
+                "name": "pag4r boletos do mes",
+                "tags": [
+                    "aluguel",
+                    "energia",
+                    "internet"
+                ]
+            },
+            {
+                "name": "pag4r loja de roupas",
+                "tags": [
+                    "C&A",
+                    "Renner",
+                    "Riachuelo"
+                ]
+            }
+        ]
+    },
+    
+    "unique": {
+        "user": {
+            "name": "Maxwell Unique Task",
+            "email": "maxcuniqtask@email.com",
+            "password": "123456"
+        },
+        "task":
+            {
+                "name": "realizar compras no mercado",
+                "tags": [
+                    "arroz",
+                    "feijao",
+                    "frango"
+                ]
+            }
+    },
+    
+    "not_found": {
+        "user": {
+            "name": "Maxwell Not Found",
+            "email": "maxnotfound@email.com",
+            "password": "123456"
+        },
+        "task":
+            {
+                "name": "Enviar relatorio aos clientes",
+                "tags": [
+                    "ABC ltda",
+                    "XYZ S/A"
+                ]
+            }
+    }
+}

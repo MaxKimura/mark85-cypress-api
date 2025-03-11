@@ -1,0 +1,31 @@
+{
+    
+    "update": {
+        "user": {
+            "name": "Maxwell Update Task",
+            "email": "maxupdate@email.com",
+            "password": "123456"
+        },
+        "task":
+            {
+                "name": "Passear com cachorros",
+                "tags": [
+                    "horário: manha",
+                    "horário: tarde",
+                    "horário: noite"
+                ]
+            }
+    },
+    
+    "not_found_remove": {
+        "user": {
+            "name": "Maxwell Not Found Update",
+            "email": "maxnotfupdate@email.com",
+            "password": "123456"
+        },
+        "task":
+            {
+                "name": "Verificar emails"
+            }
+    }
+}

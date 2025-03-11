@@ -1,0 +1,31 @@
+{
+    
+    "remove": {
+        "user": {
+            "name": "Maxwell Remove Task",
+            "email": "maxremove@email.com",
+            "password": "123456"
+        },
+        "task":
+            {
+                "name": "fazer planilha de fechamentos",
+                "tags": [
+                    "empresa A",
+                    "Empresa B",
+                    "Empresa C"
+                ]
+            }
+    },
+    
+    "not_found_remove": {
+        "user": {
+            "name": "Maxwell Not Found Remove",
+            "email": "maxnotfremove@email.com",
+            "password": "123456"
+        },
+        "task":
+            {
+                "name": "Anotações importantes"
+            }
+    }
+}

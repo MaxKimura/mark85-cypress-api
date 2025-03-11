@@ -1,0 +1,27 @@
+{
+    "create": {
+        "user": {
+            "name": "Maxwell Tasks",
+            "email": "maxtasks@email.com",
+            "password": "123456"
+        },
+        "task": {
+            "name": "pagar cartao de credito",
+            "tags": [
+                "nubank",
+                "c6",
+                "bradesco"
+            ]
+        }
+    },
+    "duplicated": {
+        "user": {
+            "name": "Maxwell Duplicated Tasks",
+            "email": "maxdupltask@email.com",
+            "password": "123456"
+        },
+        "task": {
+            "name": "Fazer compras no mercado"
+        }
+    }
+}

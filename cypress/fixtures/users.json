@@ -1,0 +1,31 @@
+{
+  "login": {
+    "name": "Maxwell Auth",
+    "email": "maxauth@email.com",
+    "password": "123456"
+  },
+  "unauthorized_email": {
+    "email": "max3333@email.com",
+    "password": "123456"
+  },
+  "unauthorized_password": {
+    "email": "maxauth@email.com",
+    "password": "1234567"
+  },
+
+  "create": {
+    "name": "Maxwell",
+    "email": "max@email.com",
+    "password": "123456"
+  },
+  "creduplicated_email": {
+    "name": "Joao Silva",
+    "email": "joao@email.com",
+    "password": "123456"
+  },
+  "required": {
+    "name": "Margot Robie",
+    "email": "margot@email.com",
+    "password": "123456"
+  }
+}
